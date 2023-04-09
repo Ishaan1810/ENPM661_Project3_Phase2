@@ -9,10 +9,9 @@ Ishaan Parikh:- 119135891
 Manav Nagda:- 119133545
 
 Part 01:-
-LIbraries Used:-
+Libraries Used:-
 
 matplotlib.pyplot
-
 math
 numpy
 time
