@@ -21,6 +21,25 @@ heapq
 rospy
 geometry_msgs.msgs
 
+Instructions to run
+1. enter clearance of bot in mm (please put more than 10 mm as less than that is too small to be reflected)
+2. add Low rpm(between 5 to 15 rpm)
+3. add high rpm(between 5 to 15 rpm)
+4. enter start x,y, and theta in mm and degrees
+5. enter goal x,y in mm
+
+dont's
+a. do not input float values 
+b. do not input low and high rpm as equal, the code will work but the bot won't reach the goal and it will be displayed as such 
+c. only put values in the format in which they are asked 
+
+test case considered in 2d representation video
+clearance = 50
+low rpm = 5
+high rpm = 9
+start x,y,theta = 500 1000 30 
+goal x,y = 2000 1200
+
 
 Part 02:-
 The Package consists of 3 files:
