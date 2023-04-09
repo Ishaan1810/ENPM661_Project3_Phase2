@@ -46,6 +46,22 @@ To run the package two terminals will be required:
     
     rosrun turtlebot3_gazebo publisher.py
     
+The terminal will ask for user input and enter values as shown below  
+Test Case 1 :-
+Enter clearance of robot in mm: 50
+Enter the Low RPM: 5
+Enter the High RPM: 9
+Enter starting x coordintes, y coordinates and orientation seperated by spaces in mm 500 200 0
+Enter Goal node x coordinte, y coordinate seperated by spaces in mm 4500 200
+
+
+Test Case 2:
+Enter clearance of robot in mm: 50
+Enter the Low RPM: 5
+Enter the High RPM: 9
+Enter starting x coordintes, y coordinates and orientation seperated by spaces in mm: 500 200 0
+Enter Goal node x coordinte, y coordinate seperated by spaces in mm: 5000 1850
+
       
 
     
