@@ -8,6 +8,18 @@ Team Members:-
 Ishaan Parikh:- 119135891
 Manav Nagda:- 119133545
 
+Part 01:-
+LIbraries Used:-
+
+matplotlib.pyplot
+math
+numpy
+time
+heapq
+rospy
+geometry_msgs.msgs
+
+
 Part 02:-
 The Package consists of 3 files:
 1) src:- the souce code
