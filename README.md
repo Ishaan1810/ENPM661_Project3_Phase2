@@ -19,6 +19,7 @@ The Package consists of 3 files:
 	This is named map.world and is unchanged and reamins as given in the project.
 	Make sure this file is in the worlds folder in turtlebot3_gazebo.
 To run the package two terminals will be required:
+
   In the first terminal run the following 
   
     cd ~/catkin_ws && catkin_make
